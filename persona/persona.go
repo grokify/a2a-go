@@ -49,7 +49,6 @@ func (p Persona) ToAgentCard(
 	version string,
 	skills []server.AgentSkill,
 ) server.AgentCard {
-
 	desc := p.ToSystemPrompt()
 
 	return server.AgentCard{
