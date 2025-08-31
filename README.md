@@ -14,11 +14,11 @@ This package provides a higher-level abstraction for defining LLM-based agents u
 
 ## Features
 
-🎭 **Persona-based Agent Definition**: Define agents using Role, Goals, Backstory, and Guidelines
-⚡ **System Prompt Generation**: Automatically convert personas to formatted system prompts
-🔗 **A2A AgentCard Integration**: Convert personas to Agent2Agent protocol AgentCards
-🏗️ **Flexible Construction**: Use functional options pattern for clean agent creation
-🛡️ **Type Safety**: Fully typed Go structs with comprehensive test coverage
+- 🎭 **Persona-based Agent Definition**: Define agents using Role, Goals, Backstory, and Guidelines
+- ⚡ **System Prompt Generation**: Automatically convert personas to formatted system prompts
+- 🔗 **A2A AgentCard Integration**: Convert personas to Agent2Agent protocol AgentCards
+- 🏗️ **Flexible Construction**: Use functional options pattern for clean agent creation
+- 🛡️ **Type Safety**: Fully typed Go structs with comprehensive test coverage
 
 ## Installation
 
