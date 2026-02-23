@@ -2,7 +2,7 @@ module github.com/grokify/a2a-go
 
 go 1.24.5
 
-require trpc.group/trpc-go/trpc-a2a-go v0.2.3
+require trpc.group/trpc-go/trpc-a2a-go v0.2.5
 
 require (
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.0 // indirect
